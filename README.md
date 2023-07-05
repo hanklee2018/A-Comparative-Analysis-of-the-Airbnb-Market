@@ -10,7 +10,7 @@
 ## How to run
 
 1. `pip install requirements.txt`
-2. run the code in [`analysis.ipynb`](/analysis.ipynb)
+2. run the code in [`analysis.ipynb`](/anlysis.ipynb)
 
 ## Motivation and Results
 In the analysis, we try to answer the following questions:
