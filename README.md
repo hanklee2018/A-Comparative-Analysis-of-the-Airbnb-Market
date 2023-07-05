@@ -20,3 +20,7 @@ In the analysis, we try to answer the following questions:
 - How the airbnb inventory of Boston changes with the time?
 - How the airbnb price of Boston changes with the time?
 - What is the difference of airbnb market between Seattle and Boston?
+
+## Blog Post
+
+The findings and analysis can be find [here](https://medium.com/@wei-han.lee1/a-comparative-analysis-of-the-airbnb-market-in-seattle-and-boston-9275c4355447)
